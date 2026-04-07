@@ -1,7 +1,7 @@
 {
   "name": "Lifesteal",
-  "description": "The ultimate survival challenge! ❤️ Kill players to steal their hearts, but be careful—if you lose all your hearts, you'll be eliminated. Features custom economy 💰, teams, and intense PvP!",
-  "image": "https://images.unsplash.com/photo-1587573089734-09cb99c3a8b3?auto=format&fit=crop&q=80&w=400&h=200",
-  "version": "1.20.x",
+  "description": "The ultimate survival challenge! ❤️ Kill players to steal their hearts. If you lose all your hearts, you'll be eliminated from the realm!",
+  "image": "https://i.ibb.co/LzfNqf8/lifesteal-heart.png",
+  "version": "1.21.x",
   "type": "Survival PvP"
 }
