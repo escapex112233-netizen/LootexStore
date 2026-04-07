@@ -1,5 +1,7 @@
 {
-  "status": "coming-soon",
-  "description": "Practice: Ranked duels and bot fights to improve your PvP skills.",
-  "icon": "⚔️"
+  "name": "Practice",
+  "description": "Sharpen your skills! ⚔️ Practice PvP, bridging, and parkour in our dedicated training arena. No loss, just pure skill-up!",
+  "image": "https://i.ibb.co/Z8ZqCgq/practice-axe.png",
+  "version": "1.20.x",
+  "type": "PvP Training"
 }
