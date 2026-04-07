@@ -1,5 +1,7 @@
 {
-  "status": "coming-soon",
-  "description": "Economy SMP: Build shops, trade with players, and become the richest.",
-  "icon": "💰"
+  "name": "Survival",
+  "description": "Explore a vast tropical world! 🌴 Build your kingdom, trade with others, and survive the night with our custom community features.",
+  "image": "https://preview.redd.it/minecraft-tropical-lobby-v0-4m28eqjl5z7b1.png?auto=webp&s=2a8a3e10f010e52e16162c147d5fa5a5819ca116",
+  "version": "1.21.x",
+  "type": "Economy Survival"
 }
