@@ -1,5 +1,7 @@
 {
-  "status": "coming-soon",
-  "description": "Factions: Claim territory, build massive bases, and go to war.",
-  "icon": "🏰"
+  "name": "Factions",
+  "description": "Build an empire! 🛡️ Create your faction, claim land, and raid enemies. Dominate the server and become the richest faction!",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN01pCx040sXVT8Q_rpXlKh_C-wByyssKb1Q&s",
+  "version": "1.20.x",
+  "type": "Factions PvP"
 }
