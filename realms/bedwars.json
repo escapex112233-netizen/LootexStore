@@ -1,5 +1,7 @@
 {
-  "status": "coming-soon",
-  "description": "Bedwars: Protect your bed and destroy others. Fast-paced action.",
-  "icon": "🛏️"
+  "name": "BedWars",
+  "description": "Protect your bed at all costs! 🛏️ Collect resources, upgrade your gear, and eliminate other teams' beds to win the match!",
+  "image": "https://i.ibb.co/6y4L1rN/bedwars-view.png",
+  "version": "1.20.x",
+  "type": "Minigame"
 }
